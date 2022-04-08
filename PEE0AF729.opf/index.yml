@@ -1,0 +1,11 @@
+id: 5f7e6aaac9ee4a97a0c4f1cdd1ebefc5
+annotation_type: index
+revision: '00001'
+annotations:
+  2db79cda2899473c8b75cd445a3587aa:
+    parts: {}
+    span:
+    - vol: 47
+      start: 0
+      end: 3631
+    work_id: N3901
